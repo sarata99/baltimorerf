@@ -38,3 +38,6 @@ def volunteer():
 @app.route('/how_to')
 def how():
     return render_template('how.html')
+
+if __name__ == "__main__":
+    app.run(port=5000)
