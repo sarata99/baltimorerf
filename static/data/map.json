@@ -1,0 +1,199 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.593681, 39.286289]
+      },
+      "properties": {
+        "title": "Esperanza Center",
+        "description": "Clinic for immigrants in Baltimore",
+        "address": "430 S Broadway, Baltimore, MD 21231",
+        "phone_number": "(667) 600-2900"
+      }
+    },
+     {
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.596500, 39.323980]
+      },
+      "properties": {
+        "title": "Shepherd's Clinic",
+        "description": "Clinic for the homeless",
+        "address": "2800 Kirk Ave, Baltimore, MD 21218",
+        "phone_number": "(410) 467-7140"
+      }
+    },
+     {
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.609352,39.293819]
+      },
+      "properties": {
+        "title": "Healthcare for the Homeless",
+        "description": "exactly as it sounds -- free healthcare",
+        "address": "421 Fallsway, Baltimore, MD 21202",
+        "phone_number": "(410) 837-5533"
+      }
+    },
+    {
+      "type": "Shelter",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.599850,39.291630]
+      },
+      "properties": {
+        "title": "Baltimore Rescue Mission",
+        "description": "Emergency shelter for men in Baltimore.",
+        "address": "4 N Central Ave, Baltimore, MD 21202",
+        "phone_number": "(410) 342-2533"
+      }
+    },
+      {
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.600030,39.292570]
+      },
+      "properties": {
+        "title": "Eastern Sexual Health Clinic",
+        "description": "Free STI testing and treatment among other services.",
+        "address": "1200 E. Fayette St., Baltimore, MD 21202",
+        "phone_number": "(410) 396-9410"
+      }
+    },
+        {
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.641390,39.309940]
+      },
+      "properties": {
+        "title": "Druid Sexual Health Clinic",
+        "description": "Free STI testing and treatment among other services.",
+        "address": "1515 W. North Ave, Baltimore, MD 21217",
+        "phone_number": "(410) 396-0176"
+      }
+    },
+         {
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.603520,39.291290]
+      },
+      "properties": {
+        "title": "HIV/STD Prevention Program Administrative Office",
+        "description": "Free STI testing and treatment among other services.",
+        "address": "1001 E. Fayette St., Baltimore, MD 21202",
+        "phone_number": "(410) 396-4448"
+      }
+    },
+       {
+      "type": "Shelter",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.614410,39.280680]
+      },
+      "properties": {
+        "title": "Baltimore Outreach Services",
+        "description": "Homeless shelter for Baltimore's homeless - available 24 hours",
+        "address": "701 S Charles St",
+        "phone_number": "(410) 752-1285"
+      }
+    },
+       {
+      "type": "Shelter",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-76.600120,39.291330]
+      },
+      "properties": {
+        "title": "Karis Home",
+        "description": "Homeless shelter for Baltimore's homeless - specifically for women and children",
+        "address": "1228 E Baltimore St",
+        "phone_number": "(410) 342-1323"
+      }
+    },
+    {
+      "type": "Shelter",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-76.587450,39.296180]
+      },
+      "properties": {
+        "title": "Bea Gaddy Family Center Inc",
+        "description": "Homeless shelter for Baltimore's homeless",
+        "address": "425 N Chester St, Baltimore, MD 21231",
+        "phone_number": "(410) 563-2749"
+      }
+    },
+     {
+      "type": "Shelter",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-76.599854,39.291630]
+      },
+      "properties": {
+        "title": "Baltimore Rescue Mission",
+        "description": "Homeless shelter for Baltimore's homeless",
+        "address": "4 N Central Ave, Baltimore, MD 21202",
+        "phone_number": "(410) 342-2533"
+      }
+    },
+      {
+      "type": "Shelter",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-76.643630,39.306610]
+      },
+      "properties": {
+        "title": "South Baltimore Homeless Shelter",
+        "description": "Homeless shelter for Baltimore's homeless",
+        "address": "1611 Baker St, Baltimore, MD 21217",
+        "phone_number": "no number listed"
+      }
+    },
+  {
+      "type": "Shelter",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-76.601830,39.290540]
+      },
+      "properties": {
+        "title": "Helping Up Mission",
+        "description": "Homeless shelter for Baltimore's homeless",
+        "address": "1029 E Baltimore St, Baltimore, MD 21202",
+        "phone_number": "(410) 675-7500"
+      }
+    },
+     {
+      "type": "Shelter",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-76.618080,39.310160]
+      },
+      "properties": {
+        "title": "Project PLase",
+        "description": "Homeless shelter for Baltimore's homeless: non-profit",
+        "address": "1814 Maryland Ave, Baltimore, MD 21201",
+        "phone_number": "(410) 837-1400"
+      }},
+        {
+      "type": "Shelter",
+      "geometry": {
+        "type": "Point",
+        "coordinates":[-76.610100,39.317921]
+      },
+      "properties": {
+        "title": "Manna House",
+        "description": "Provide meals to the homeless",
+        "address": "435 E 25th St, Baltimore, MD 21218",
+        "phone_number": "(410) 889-3001"
+      }
+    }
+  ]
+}

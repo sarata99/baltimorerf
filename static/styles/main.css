@@ -1,0 +1,54 @@
+/* Fixed navbar and sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    padding-top: 100px;
+}
+
+.cd-registration {
+    padding: 20px;
+    border: 5px solid #ccc;
+    text-align: center;
+    display: inline-block;
+    background-color:#f1f1f1;
+}
+
+.navbar {
+    text-transform: uppercase;
+    font-size: 14pt;
+    letter-spacing: 1px;
+    background-color: #dc0011;
+    -moz-box-shadow:    3px 3px 5px 4px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 4px #ccc;
+    box-shadow:         3px 3px 5px 4px #ccc;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+
+.navbar-toggler {
+    border-color: white;
+}
+
+.nav-link {
+    color: white;
+    border-bottom: 2px solid rgba(255,255,255,0);
+}
+
+.nav-link:hover {
+    color: white;
+    border-bottom: 2px solid white;
+    transition: 0.5s;
+}
+
+.footer {
+    height: 50px;
+    position: absolute;
+    bottom: -100px;
+    width: 100%;
+}

@@ -1,0 +1,87 @@
+{% extends "base.html" %}
+{% block content %}
+<head>
+  <meta charset='utf-8' />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css" rel="stylesheet">
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js"></script>
+<style>
+
+#map {
+  position: relative;
+  left: 30px;
+  width: 1000px;
+  height: 600px;
+}
+
+.marker {
+  width: 25px;
+  height: 25px;
+  background-size: 100%;
+  display: block;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  padding: 0;
+}
+
+.mapboxgl-popup {
+  max-width: 200px;
+}
+
+.mapboxgl-popup-content {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+</style>
+</head>
+<body>
+<div style="padding-left:16px">
+  <h2>Organizations</h2>
+  <p>Current organiations listed</p>
+</div>
+
+<div id="map"></div>
+
+</body>
+<script>
+	// TO MAKE THE MAP APPEAR YOU MUST
+	// ADD YOUR ACCESS TOKEN FROM
+	// https://account.mapbox.com
+  mapboxgl.accessToken = 'pk.eyJ1IjoiYWRhbXJhdGEiLCJhIjoiY2wxdHAzaWM1MDdsdjNvbnMzOTJyNGloeiJ9.bhcqHL7YxUH2f3JDNwHTzw';
+const map = new mapboxgl.Map({
+  testMode: true,
+  container: 'map', // container ID
+  style: 'mapbox://styles/mapbox/streets-v11', // style URL
+  center: [-76.612190, 39.290386], // starting position [lng, lat]
+  zoom: 11 // starting zoom
+});
+
+var jsonn = JSON.parse('{{ jsonn | tojson | safe}}');
+
+// add markers to mapfor (const feature of geojson.features)
+for (const feature of JSON.parse('{{ jsonn | tojson | safe}}').features) {
+  // make a marker for each feature and add to the map
+  // https://docs.mapbox.com/help/tutorials/custom-markers-gl-js/
+  // create a HTML element for each feature
+  const el = document.createElement('div');
+  el.className = 'marker';
+  
+  if(feature.type == 'Clinic'){
+    el.style.backgroundImage = 'url(/static/assets/clinic.jpg)';
+  }
+  else if (feature.type == 'Shelter'){
+    el.style.backgroundImage = 'url(/static/assets/house.png)';
+  }
+  new mapboxgl.Marker(el).setLngLat(feature.geometry.coordinates).setPopup(
+      new mapboxgl.Popup({ offset: 25 }) // add popups
+        .setHTML(
+          `<h3>${feature.properties.title}</h3><p>${feature.properties.description}</p>
+          <p>${feature.properties.address}</p><p>${feature.properties.phone_number}</p>`
+        )
+    ).addTo(map);
+}
+
+</script>
+{% endblock %}

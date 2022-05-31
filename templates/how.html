@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="jumbotron text-center">
+  <h1>How To</h1>
+  <h2> Need help navigating the process of applying for aid? This page makes it easy! </h2>
+    <p> Below is a collection of sites organized by type</p>
+</div>
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Hotlines</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>School Aid</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:#ccc;">
+    <h2>Navigating Medicare and Medicaid</h2>
+    <p>
+      Useful Link(s):
+      https://www.medicare.gov/
+      https://www.medicare.gov/basics/get-started-with-medicare
+      https://www.medicaid.gov/medicaid/eligibility/index.html</p>
+    <h3>In Brief:</h3>
+    <p>
+      Medicare:
+      Medicare is a program aimed toward providing health coverage to individuals aged 65 and older.
+      Please note that medicare will not cover ALL expenses, though it does typically cover most costs (to a point - this varies).
+      Generally, covered costs are those that are absolutely necessary ("medically necessary").
+    </p>
+
+    <p>
+      Medicaid:
+      Medicaid is the largest provider of health insurance to Americans. in fact, many people are actually guranteed coverage (i.e. "mandatory eligibility groups"). These groups include:
+    low-income families, people receiving SSI, and many others. The link above porivdes specifics about eligibility criteria,
+    further background information, and notable exceptions that are made to help extend coverage.</p>
+  </div>
+</div>
+
+</body>
+
+
+
+{% endblock %}
+
+
+
+
+
