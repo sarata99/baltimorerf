@@ -1,27 +1,10 @@
-<nav class="navbar navbar-expand-md fixed-top">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="navbar-nav mr-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="{{ url_for('index') }}">Home</a>
-            </li>
-              <li class="nav-item">
-              <a class="nav-link" href="{{ url_for('map') }}">Map</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="{{ url_for('contact') }}">Contact Us</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{ url_for('about') }}">About Us</a>
-            </li>
-             <li class="nav-item">
-              <a class="nav-link" href="{{ url_for('volunteer') }}">Volunteer</a>
-            </li>
-             <li class="nav-item">
-              <a class="nav-link" href="{{ url_for('how') }}">How To</a>
-            </li>
-        </ul>
-    </div>
-</nav>
+<nav id="navbar" class="navbar order-last order-lg-0">
+  <ul>
+    <li><a href="{{ url_for('index') }}">Home</a></li>
+    <li><a href="{{ url_for('map') }}">Finder</a></li>
+    <li><a href="{{ url_for('how') }}">Guides</a></li>
+    <li><a href="{{ url_for('volunteer') }}">Service</a></li>
+    <li><a href="{{ url_for('about') }}">About Us</a></li>
+  </ul>
+  <i class="bi bi-list mobile-nav-toggle"></i>
+</nav><!-- .navbar -->

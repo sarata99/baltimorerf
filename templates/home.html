@@ -3,37 +3,64 @@
 
 {% extends "base.html" %}
 {% block content %}
-   <center> <header>
-     <img src="https://mannahouseinc.org/wp-content/uploads/2018/01/mannalogo.png" alt="background" style="width:500px;height:600px;">
-        </header></center>
-        <!-- Content section-->
-        <section class="py-5">
-            <div class="container my-5">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6">
-                        <h2>Full Width Backgrounds</h2>
-                        <p class="lead">A single, lightweight helper class allows you to add engaging, full width background images to sections of your page.</p>
-                        <p class="mb-0">The universe is almost 14 billion years old, and, wow! Life had no problem starting here on Earth! I think it would be inexcusably egocentric of us to suggest that we're alone in the universe.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Image element - set the background image for the header in the line below-->
-        <div class="py-5 bg-image-full" style="background-image: url('https://blog-www.pods.com/wp-content/uploads/2021/04/resized_FI_Getty_Baltimore-MD.jpg')">
-            <!-- Put anything you want here! The spacer below with inline CSS is just for demo purposes!-->
-            <div style="height: 090rem"></div>
-        </div>
-        <!-- Content section-->
-        <section class="py-5">
-            <div class="container my-5">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6">
-                        <h2>Engaging Background Images</h2>
-                        <p class="lead">The background images used in this template are sourced from Unsplash and are open source and free to use.</p>
-                        <p class="mb-0">I can't tell you how many people say they were turned off from science because of a science teacher that completely sucked out all the inspiration and enthusiasm they had for the course.</p>
-                    </div>
-                </div>
-            </div>
-        </section>
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex justify-content-center align-items-center">
+    <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
+      <h1>Finding Resources in Baltimore,<br>Made Easy</h1>
+      <h2>Clinics, Food Pantries, and Shelters</h2>
+      <a href="{{ url_for('map') }}"class="btn-get-started">Find Now</a>
+    </div>
+  </section><!-- End Hero -->
+  <main id="main">
 
+    <!-- ======= Why Us Section ======= -->
+    <section id="why-us" class="why-us">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row">
+          <div class="col-lg-4 d-flex align-items-stretch">
+            <div class="content">
+              <h3>Empowerment through access</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+              </p>
+              <div class="text-center">
+                <a href="about.html" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-8 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-boxes d-flex flex-column justify-content-center">
+              <div class="row">
+                <div class="col-xl-4 d-flex align-items-stretch">
+                  <div class="icon-box mt-4 mt-xl-0">
+                    <i class="bx bx-receipt"></i>
+                    <h4>Free Clinics</h4>
+                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                  </div>
+                </div>
+                <div class="col-xl-4 d-flex align-items-stretch">
+                  <div class="icon-box mt-4 mt-xl-0">
+                    <i class="bx bx-cube-alt"></i>
+                    <h4>Food Pantries</h4>
+                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                  </div>
+                </div>
+                <div class="col-xl-4 d-flex align-items-stretch">
+                  <div class="icon-box mt-4 mt-xl-0">
+                    <i class="bx bx-images"></i>
+                    <h4>Shelters</h4>
+                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  </div>
+                </div>
+              </div>
+            </div><!-- End .content-->
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Why Us Section -->
+
+  </main><!-- End #main -->
 {% endblock %}
