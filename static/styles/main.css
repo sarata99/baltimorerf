@@ -20,6 +20,14 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.container_format {
+  background-color: #20a8c0;
+}
+
+.container_text{
+  color: white;
+}
+
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
 --------------------------------------------------------------*/
