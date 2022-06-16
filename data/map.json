@@ -1,83 +1,100 @@
 {
 
   "type": "FeatureCollection",
-
   "features": [
-
     {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [-76.593681, 39.286289]
-
       },
-
       "properties": {
-
         "title": "Esperanza Center",
-
         "description": "Clinic for immigrants in Baltimore",
-
         "address": "430 S Broadway, Baltimore, MD 21231",
-
         "phone_number": "(667) 600-2900"
-
       }
-
     },
-
-     {
-
-      "type": "Clinic",
-
+    {
+      "type": "Food Pantry",
       "geometry": {
-
         "type": "Point",
-
+        "coordinates": [-76.583603, 39.312462]
+      },
+      "properties": {
+        "title": "New Life Food Pantry",
+        "description": "",
+        "address": " 2401 E North Ave, Baltimore, MD 21213",
+        "phone_number": "(443) 800-0213",
+	      "website_link": "https://newlifepantry.org/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.608250, 39.316900]
+      },
+      "properties": {
+        "title": "Donald Bentley Food Pantry",
+        "description": "",
+        "address": "2405 Loch Raven Rd, Baltimore, MD 21218",
+        "phone_number": "",
+	      "website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.648820, 39.293950]
+      },
+      "properties": {
+        "title": "FMDM Midtown Food Pantry",
+        "description": "",
+        "address": "1950 W Franklin St, Baltimore, MD 21223",
+        "phone_number": "(443) 761-9714",
+	      "website_link": "https://fmdm-midtown-edmonson-food-pantry.business.site/?utm_source=gmb&utm_medium=referral"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.566480, 39.346930]
+      },
+      "properties": {
+        "title": "Northeast Food Pantry",
+        "description": "",
+        "address": "4920 Harford Rd, Baltimore, MD 21214",
+        "phone_number": "",
+	      "website_link": ""
+      }
+    },
+     {
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-76.596500, 39.323980]
-
       },
-
       "properties": {
-
         "title": "Shepherd's Clinic",
-
         "description": "Clinic for the homeless",
-
         "address": "2800 Kirk Ave, Baltimore, MD 21218",
-
         "phone_number": "(410) 467-7140"
-
       }
-
     },
-
      {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [-76.609352,39.293819]
-
       },
-
       "properties": {
-
         "title": "Healthcare for the Homeless",
-
         "description": "exactly as it sounds -- free healthcare",
-
         "address": "421 Fallsway, Baltimore, MD 21202",
-
         "phone_number": "(410) 837-5533"
-
       }
 
     },

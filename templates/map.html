@@ -75,6 +75,9 @@ for (const feature of JSON.parse('{{ jsonn | tojson | safe}}').features) {
   else if (feature.type == 'Shelter'){
     el.style.backgroundImage = 'url(/static/assets/house.png)';
   }
+  else if (feature.type == 'Food Pantry'){
+    el.style.backgroundImage = 'url(/static/assets/food.png)';
+  }
   new mapboxgl.Marker(el).setLngLat(feature.geometry.coordinates).setPopup(
       new mapboxgl.Popup({ offset: 25 }) // add popups
         .setHTML(
