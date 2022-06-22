@@ -3,6 +3,273 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.587509, 39.294441]
+      },
+      "properties": {
+        "title": "The Door Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "219 N Chester St, Baltimore, MD 21231",
+        "phone_number": "(410) 675-3288",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.682152, 39.328350]
+      },
+      "properties": {
+        "title": "Adams Chapel Food Pantry - Food Distribution Centerr",
+        "description": "",
+        "address": "3813 Egerton Rd, Baltimore, MD 21215",
+        "phone_number": "(410) 542-6200",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.631530, 39.306080]
+      },
+      "properties": {
+        "title": "Open Door Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "400 Wilson St, Baltimore, MD 21217",
+        "phone_number": "(410) 675-3288",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.587509, 39.294441]
+      },
+      "properties": {
+        "title": "The Door Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "219 N Chester St, Baltimore, MD 21231",
+        "phone_number": "(410) 675-3288",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.696120, 39.265870]
+      },
+      "properties": {
+        "title": "Our Lady of Victory - Food Pantry",
+        "description": "",
+        "address": "4414 Wilkens Ave, Baltimore, MD 21229",
+        "phone_number": "(410) 242-0131",
+	"website_link": "https://www.olvictory.org/olvc/pastoral-ministry/community-outreach/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.634580, 39.262520]
+      },
+      "properties": {
+        "title": "Rev. Willie Chandler Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "2322 Annapolis Rd, Baltimore, MD 21230",
+        "phone_number": " (410) 336-9118",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.608719, 39.286690]
+      },
+      "properties": {
+        "title": "Foot Prints of Hope Pantry - Food Distribution Center",
+        "description": "",
+        "address": " 501 E Pratt St, Baltimore, MD 21202",
+        "phone_number": "(410) 539-1591",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.648613, 39.312321]
+      },
+      "properties": {
+        "title": "New Shiloh Baptist Church Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "2100 N Monroe St, Baltimore, MD 21217",
+        "phone_number": "(410) 523-5306",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.600740, 39.329260]
+      },
+      "properties": {
+        "title": "Gedco",
+        "description": "",
+        "address": "1010 E 33rd St, Baltimore, MD 21218",
+        "phone_number": "(410) 433-2442",
+	"website_link": "https://gedco.org/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.562450, 39.350810]
+      },
+      "properties": {
+        "title": "United Methodist Church Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "5315 Harford Rd #3, Baltimore, MD 21214",
+        "phone_number": "(410) 426-8177",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.599510, 39.237720]
+      },
+      "properties": {
+        "title": "City Of Refuge Baltimore Food Pantry-Soup Kitchen",
+        "description": "",
+        "address": "3501 7th St, Baltimore, MD 21225",
+        "phone_number": "(410) 355-6707",
+	"website_link": "https://www.cityofrefugebaltimore.org/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.579270, 39.292280]
+      },
+      "properties": {
+        "title": "Saint Elizabeth Outreach Pantry - Food Distribution Center",
+        "description": "",
+        "address": "2638 E Baltimore St, Baltimore, MD 21224",
+        "phone_number": "",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.615990, 39.295078]
+      },
+      "properties": {
+        "title": "My Sister's Place - Food Distribution Center",
+        "description": "",
+        "address": "17 W Franklin St, Baltimore, MD 21201",
+        "phone_number": "(667) 600-3700",
+	"website_link": "https://www.catholiccharities-md.org/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.676760, 39.293770]
+      },
+      "properties": {
+        "title": "Olivet Baptist Church - Food Pantry",
+        "description": "",
+        "address": "3529 Edmondson Ave, Baltimore, MD 21229",
+        "phone_number": "(410) 566-3779",
+	"website_link": "https://olivetbaptistchurchbaltimore.org/food-pantry"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.610100, 39.317921]
+      },
+      "properties": {
+        "title": "Midtown Churches Community Association, Inc.(Manna House) - Food Distribution Center",
+        "description": "",
+        "address": "435 E 25th St, Baltimore, MD 21218",
+        "phone_number": "(410) 889-3291",
+	"website_link": "https://mannahouseinc.org/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.609863, 39.357689]
+      },
+      "properties": {
+        "title": "CARES Career Connection",
+        "description": "",
+        "address": "5502 York Rd, Baltimore, MD 21212",
+        "phone_number": "(410) 532-2273.",
+        "website_link": "https://gedco.org/what-we-do/community-services/cares/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.646170, 39.300770]
+      },
+      "properties": {
+        "title": "Mount Pisgah CME Church Pantry - Food Distribution Center",
+        "description": "",
+        "address": "1034 N Fulton Ave, Baltimore, MD 21217",
+        "phone_number": "(410) 728-6828",
+        "website_link": ""
+      }
+    },
+     {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.634240, 39.329700]
+      },
+      "properties": {
+        "title": "HWR Emergency Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "3449 Falls Rd, Baltimore, MD 21211",
+        "phone_number": "(410) 243-1997",
+        "website_link": ""
+
+      }
+    },
+     {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.632850,39.282030]
+      },
+      "properties": {
+        "title": "Paul's Place - Food Distribution Center",
+        "description": "exactly as it sounds -- free healthcare",
+        "address": "1118 Ward St, Baltimore, MD 2123",
+        "phone_number": "(410) 625-0775",
+        "website_link": "https://paulsplaceoutreach.org/"
+      }
+    },
+    {
       "type": "Clinic",
       "geometry": {
         "type": "Point",
@@ -26,7 +293,7 @@
         "description": "",
         "address": " 2401 E North Ave, Baltimore, MD 21213",
         "phone_number": "(443) 800-0213",
-	"website_link": "https://newlifepantry.org/"
+	      "website_link": "https://newlifepantry.org/"
       }
     },
     {
@@ -460,9 +727,36 @@
       }
 
     },
+
+{
+
+     "type": "Shelter",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates":[-76.583603,39.312462]
+
+      },
+
+      "properties": {
+
+        "title": "New Life Food Pantry",
+
+        "description": "Provide meals to the homeless",
+
+        "address": " 2401 E North Ave, Baltimore, MD 21213",
+
+        "phone_number": " (443) 800-0213"
+
+      }
+
+    },
+
   {
 
-      "type": "Food Pantry",
+      "type": "Shelter",
 
       "geometry": {
 
