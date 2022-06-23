@@ -1,7 +1,579 @@
 {
-
   "type": "FeatureCollection",
   "features": [
+    {
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.583950, 39.295520]
+      },
+      "properties": {
+        "title": "Orleans Square Location",
+        "description": "",
+        "address": "2323 E. Orleans St. 21224",
+        "phone_number": "410-558-4747",
+	  "website_link": "https://bmsi.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.672462, 39.272072]
+      },
+      "properties": {
+        "title": "St. Agnes",
+        "description": "",
+        "address": "900 S. Caton Ave 21229",
+        "phone_number": "443-703-3200",
+	  "website_link": "https://healthcare.ascension.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.572520, 39.321190]
+      },
+      "properties": {
+        "title": "Belair Edison",
+        "description": "",
+        "address": "3120 Erdman Ave 21213",
+        "phone_number": "410-558-4800",
+	  "website_link": "https://bmsi.org/our-centers/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.565830, 39.285820]
+      },
+      "properties": {
+        "title": "Highlandtown",
+        "description": "",
+        "address": "3700 Fleet St, Ste 200 21224",
+        "phone_number": "410-558-4900",
+	  "website_link": "https://bmsi.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.675890, 39.270610]
+      },
+      "properties": {
+        "title": "Pine Heights",
+        "description": "",
+        "address": "1001 Pine Heights Ave, Suite 100 21229",
+        "phone_number": "443-703-3600",
+	  "website_link": "https://www.physicianseyecare.com/location/pine-heights-medical-center/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.460310, 39.315430]
+      },
+      "properties": {
+        "title": "Middlesex",
+        "description": "",
+        "address": "1245 Eastern Boulevard 21221",
+        "phone_number": "410-558-4700",
+	  "website_link": "https://bmsi.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.615780, 39.302910]
+      },
+      "properties": {
+        "title": "Chase Brexton",
+        "description": "",
+        "address": "1111 N. Charles St 21201",
+        "phone_number": "410-837-2050",
+	  "website_link": "https://chasebrexton.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.622670, 39.249540]
+      },
+      "properties": {
+        "title": "Family Health Centers of Baltimore",
+        "description": "",
+        "address": "631 Cherry Hill Rd 21225",
+        "phone_number": "410- 354-2000",
+	  "website_link": "https://fhcb.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.609390, 39.239360]
+      },
+      "properties": {
+        "title": "Family Health Centers of Baltimore & Brooklyn ",
+        "description": "",
+        "address": "3540 S Hanover St ",
+        "phone_number": "410-355-0343",
+	  "website_link": "https://fhcb.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.162920, 51.586680]
+      },
+      "properties": {
+        "title": "HealthCare for the Homeless",
+        "description": "",
+        "address": "421 Fallsway Rd 21202",
+        "phone_number": "410-837-5533",
+	  "website_link": "https://www.hchmd.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.649470, 39.288640]
+      },
+      "properties": {
+        "title": "HealthCare for the Homeless",
+        "description": "",
+        "address": "2000 W. Baltimore Suite 247",
+        "phone_number": "443-703-1400",
+	  "website_link": "https://www.hchmd.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.677960, 39.347550]
+      },
+      "properties": {
+        "title": "Parkwest Health System",
+        "description": "",
+        "address": "3319 West Belvedere Avenue, 21215",
+        "phone_number": "410-542-7800",
+	  "website_link": "https://www.parkwestmed.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.663918, 39.336849]
+      },
+      "properties": {
+        "title": "Men and Family Health – Park Heights",
+        "description": "",
+        "address": "4151 Park Heights Avenue 21215",
+        "phone_number": "443-874-5502",
+	  "website_link": "https://www.parkwestmed.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.704220, 39.354610]
+      },
+      "properties": {
+        "title": "Reisterstown Road Plaza",
+        "description": "",
+        "address": "4120 Patterson Avenue 21215",
+        "phone_number": "410-764-2266",
+	  "website_link": "https://www.parkwestmed.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.603080, 39.317850]
+      },
+      "properties": {
+        "title": "Kirk Health Center",
+        "description": "",
+        "address": "2400 Kirk Ave 21218",
+        "phone_number": "410-383-8300",
+	  "website_link": "https://totalhealthcare.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.641390, 39.309940]
+      },
+      "properties": {
+        "title": "Men’s Health Center ",
+        "description": "",
+        "address": "1515 W. North Avenue 21217",
+        "phone_number": "410-383-8300",
+	  "website_link": "https://totalhealthcare.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.654910, 39.317000]
+      },
+      "properties": {
+        "title": "Mondawmin Mall Health Center",
+        "description": "",
+        "address": "2401 Liberty Heights Ave, 111-113 21215",
+        "phone_number": "410-383-8300",
+	  "website_link": "https://totalhealthcare.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.632730, 39.282490]
+      },
+      "properties": {
+        "title": "Open Gates Health Center",
+        "description": "",
+        "address": "1111 Washington Blvd 21230",
+        "phone_number": "410-383-8300",
+	  "website_link": "https://totalhealthcare.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.655240, 39.283760]
+      },
+      "properties": {
+        "title": "Westside Health Center",
+        "description": "",
+        "address": "2449 W. Frederick Ave 21223",
+        "phone_number": "410-383-8300",
+	  "website_link": "https://totalhealthcare.org/"
+      }
+    },
+{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.596520, 39.324260]
+      },
+      "properties": {
+        "title": "Shepherd’s Clinic",
+        "description": "",
+        "address": "2800 Kirk Ave. 21218",
+        "phone_number": "410-467-7140 ext 3",
+	  "website_link": "https://shepherdsclinic.org/"
+      }
+    },{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.592610, 39.286830]
+      },
+      "properties": {
+        "title": "Esperanza Center",
+        "description": "",
+        "address": "1728 Bank Street, Baltimore, MD 21231",
+        "phone_number": "667-600-2900",
+	  "website_link": "https://www.catholiccharities-md.org/services/esperanza-center/"
+      }
+    },{
+      "type": "Clinic",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.907480, 34.748820]
+      },
+      "properties": {
+        "title": "Centro Sol",
+        "description": "",
+        "address": "5200 Eastern Ave Mason F. Lord Building, Suite 4200",
+        "phone_number": "410-550-1129",
+	  "website_link": "https://www.jhcentrosol.org/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.587509, 39.294441]
+      },
+      "properties": {
+        "title": "The Door Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "219 N Chester St, Baltimore, MD 21231",
+        "phone_number": "(410) 675-3288",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.682152, 39.328350]
+      },
+      "properties": {
+        "title": "Adams Chapel Food Pantry - Food Distribution Centerr",
+        "description": "",
+        "address": "3813 Egerton Rd, Baltimore, MD 21215",
+        "phone_number": "(410) 542-6200",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.631530, 39.306080]
+      },
+      "properties": {
+        "title": "Open Door Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "400 Wilson St, Baltimore, MD 21217",
+        "phone_number": "(410) 675-3288",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.587509, 39.294441]
+      },
+      "properties": {
+        "title": "The Door Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "219 N Chester St, Baltimore, MD 21231",
+        "phone_number": "(410) 675-3288",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.696120, 39.265870]
+      },
+      "properties": {
+        "title": "Our Lady of Victory - Food Pantry",
+        "description": "",
+        "address": "4414 Wilkens Ave, Baltimore, MD 21229",
+        "phone_number": "(410) 242-0131",
+	"website_link": "https://www.olvictory.org/olvc/pastoral-ministry/community-outreach/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.634580, 39.262520]
+      },
+      "properties": {
+        "title": "Rev. Willie Chandler Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "2322 Annapolis Rd, Baltimore, MD 21230",
+        "phone_number": " (410) 336-9118",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.608719, 39.286690]
+      },
+      "properties": {
+        "title": "Foot Prints of Hope Pantry - Food Distribution Center",
+        "description": "",
+        "address": " 501 E Pratt St, Baltimore, MD 21202",
+        "phone_number": "(410) 539-1591",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.648613, 39.312321]
+      },
+      "properties": {
+        "title": "New Shiloh Baptist Church Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "2100 N Monroe St, Baltimore, MD 21217",
+        "phone_number": "(410) 523-5306",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.600740, 39.329260]
+      },
+      "properties": {
+        "title": "Gedco",
+        "description": "",
+        "address": "1010 E 33rd St, Baltimore, MD 21218",
+        "phone_number": "(410) 433-2442",
+	"website_link": "https://gedco.org/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.562450, 39.350810]
+      },
+      "properties": {
+        "title": "United Methodist Church Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "5315 Harford Rd #3, Baltimore, MD 21214",
+        "phone_number": "(410) 426-8177",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.599510, 39.237720]
+      },
+      "properties": {
+        "title": "City Of Refuge Baltimore Food Pantry-Soup Kitchen",
+        "description": "",
+        "address": "3501 7th St, Baltimore, MD 21225",
+        "phone_number": "(410) 355-6707",
+	"website_link": "https://www.cityofrefugebaltimore.org/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.579270, 39.292280]
+      },
+      "properties": {
+        "title": "Saint Elizabeth Outreach Pantry - Food Distribution Center",
+        "description": "",
+        "address": "2638 E Baltimore St, Baltimore, MD 21224",
+        "phone_number": "",
+	"website_link": ""
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.615990, 39.295078]
+      },
+      "properties": {
+        "title": "My Sister's Place - Food Distribution Center",
+        "description": "",
+        "address": "17 W Franklin St, Baltimore, MD 21201",
+        "phone_number": "(667) 600-3700",
+	"website_link": "https://www.catholiccharities-md.org/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.676760, 39.293770]
+      },
+      "properties": {
+        "title": "Olivet Baptist Church - Food Pantry",
+        "description": "",
+        "address": "3529 Edmondson Ave, Baltimore, MD 21229",
+        "phone_number": "(410) 566-3779",
+	"website_link": "https://olivetbaptistchurchbaltimore.org/food-pantry"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.610100, 39.317921]
+      },
+      "properties": {
+        "title": "Midtown Churches Community Association, Inc.(Manna House) - Food Distribution Center",
+        "description": "",
+        "address": "435 E 25th St, Baltimore, MD 21218",
+        "phone_number": "(410) 889-3291",
+	"website_link": "https://mannahouseinc.org/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.609863, 39.357689]
+      },
+      "properties": {
+        "title": "CARES Career Connection",
+        "description": "",
+        "address": "5502 York Rd, Baltimore, MD 21212",
+        "phone_number": "(410) 532-2273.",
+        "website_link": "https://gedco.org/what-we-do/community-services/cares/"
+      }
+    },
+    {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.646170, 39.300770]
+      },
+      "properties": {
+        "title": "Mount Pisgah CME Church Pantry - Food Distribution Center",
+        "description": "",
+        "address": "1034 N Fulton Ave, Baltimore, MD 21217",
+        "phone_number": "(410) 728-6828",
+        "website_link": ""
+      }
+    },
+     {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.634240, 39.329700]
+      },
+      "properties": {
+        "title": "HWR Emergency Food Pantry - Food Distribution Center",
+        "description": "",
+        "address": "3449 Falls Rd, Baltimore, MD 21211",
+        "phone_number": "(410) 243-1997",
+        "website_link": ""
+
+      }
+    },
+     {
+      "type": "Food Pantry",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.632850,39.282030]
+      },
+      "properties": {
+        "title": "Paul's Place - Food Distribution Center",
+        "description": "exactly as it sounds -- free healthcare",
+        "address": "1118 Ward St, Baltimore, MD 2123",
+        "phone_number": "(410) 625-0775",
+        "website_link": "https://paulsplaceoutreach.org/"
+      }
+    },
     {
       "type": "Clinic",
       "geometry": {
@@ -26,7 +598,7 @@
         "description": "",
         "address": " 2401 E North Ave, Baltimore, MD 21213",
         "phone_number": "(443) 800-0213",
-	"website_link": "https://newlifepantry.org/"
+	      "website_link": "https://newlifepantry.org/"
       }
     },
     {
@@ -460,9 +1032,36 @@
       }
 
     },
+
+{
+
+     "type": "Shelter",
+
+      "geometry": {
+
+        "type": "Point",
+
+        "coordinates":[-76.583603,39.312462]
+
+      },
+
+      "properties": {
+
+        "title": "New Life Food Pantry",
+
+        "description": "Provide meals to the homeless",
+
+        "address": " 2401 E North Ave, Baltimore, MD 21213",
+
+        "phone_number": " (443) 800-0213"
+
+      }
+
+    },
+
   {
 
-      "type": "Food Pantry",
+      "type": "Shelter",
 
       "geometry": {
 
