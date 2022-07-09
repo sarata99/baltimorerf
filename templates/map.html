@@ -105,11 +105,13 @@ const createNew = (content) => {
   var card_body_dir_link = document.createElement("a");
   card_body_dir_link.className = 'card-link';
   var text3 = document.createTextNode('Directions');
+  card_body_dir_link.setAttribute('href', "https://www.google.com/maps/dir/Baltimore+MD/" + content.properties.address.replace(' ', '+'));
   card_body_dir_link.append(text3);
 
   var card_body_web_link = document.createElement("a");
   card_body_web_link.className = 'card-link';
   var text3 = document.createTextNode('Website');
+  card_body_web_link.setAttribute('href', content.properties.website_link);
   card_body_web_link.append(text3);
 
   card_body_div.append(card_body_h5);
