@@ -1,20 +1,6 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Clinic",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.583950, 39.295520]
-      },
-      "properties": {
-        "title": "Orleans Square Location",
-        "description": "",
-        "address": "2323 E. Orleans St. 21224",
-        "phone_number": "410-558-4747",
-	  "website_link": "https://bmsi.org/"
-      }
-    },
 {
       "type": "Clinic",
       "geometry": {
@@ -26,7 +12,7 @@
         "description": "",
         "address": "900 S. Caton Ave 21229",
         "phone_number": "443-703-3200",
-	  "website_link": "https://healthcare.ascension.org/"
+	      "website_link": "https://healthcare.ascension.org/locations/maryland/mdbal/baltimore-ascension-saint-agnes-hospital"
       }
     },
 {
@@ -40,7 +26,7 @@
         "description": "",
         "address": "3120 Erdman Ave 21213",
         "phone_number": "410-558-4800",
-	  "website_link": "https://bmsi.org/our-centers/"
+	      "website_link": "https://bmsi.org/our-centers/"
       }
     },
 {
@@ -54,7 +40,7 @@
         "description": "",
         "address": "3700 Fleet St, Ste 200 21224",
         "phone_number": "410-558-4900",
-	  "website_link": "https://bmsi.org/"
+	      "website_link": "https://bmsi.org/"
       }
     },
 {
@@ -68,7 +54,7 @@
         "description": "",
         "address": "1001 Pine Heights Ave, Suite 100 21229",
         "phone_number": "443-703-3600",
-	  "website_link": "https://www.physicianseyecare.com/location/pine-heights-medical-center/"
+	      "website_link": "https://www.physicianseyecare.com/location/pine-heights-medical-center/"
       }
     },
 {
@@ -82,7 +68,7 @@
         "description": "",
         "address": "1245 Eastern Boulevard 21221",
         "phone_number": "410-558-4700",
-	  "website_link": "https://bmsi.org/"
+	      "website_link": "https://bmsi.org/"
       }
     },
 {
@@ -96,7 +82,7 @@
         "description": "",
         "address": "1111 N. Charles St 21201",
         "phone_number": "410-837-2050",
-	  "website_link": "https://chasebrexton.org/"
+	      "website_link": "https://chasebrexton.org/"
       }
     },
 {
@@ -110,7 +96,7 @@
         "description": "",
         "address": "631 Cherry Hill Rd 21225",
         "phone_number": "410- 354-2000",
-	  "website_link": "https://fhcb.org/"
+	      "website_link": "https://fhcb.org/"
       }
     },
 {
@@ -124,7 +110,7 @@
         "description": "",
         "address": "3540 S Hanover St ",
         "phone_number": "410-355-0343",
-	  "website_link": "https://fhcb.org/"
+	      "website_link": "https://fhcb.org/"
       }
     },
 {
@@ -138,7 +124,7 @@
         "description": "",
         "address": "421 Fallsway Rd 21202",
         "phone_number": "410-837-5533",
-	  "website_link": "https://www.hchmd.org/"
+	      "website_link": "https://www.hchmd.org/"
       }
     },
 {
@@ -152,7 +138,7 @@
         "description": "",
         "address": "2000 W. Baltimore Suite 247",
         "phone_number": "443-703-1400",
-	  "website_link": "https://www.hchmd.org/"
+	      "website_link": "https://www.hchmd.org/"
       }
     },
 {
@@ -166,7 +152,7 @@
         "description": "",
         "address": "3319 West Belvedere Avenue, 21215",
         "phone_number": "410-542-7800",
-	  "website_link": "https://www.parkwestmed.org/"
+	      "website_link": "https://www.parkwestmed.org/"
       }
     },
 {
@@ -180,7 +166,7 @@
         "description": "",
         "address": "4151 Park Heights Avenue 21215",
         "phone_number": "443-874-5502",
-	  "website_link": "https://www.parkwestmed.org/"
+	      "website_link": "https://www.parkwestmed.org/"
       }
     },
 {
@@ -194,7 +180,7 @@
         "description": "",
         "address": "4120 Patterson Avenue 21215",
         "phone_number": "410-764-2266",
-	  "website_link": "https://www.parkwestmed.org/"
+	      "website_link": "https://www.parkwestmed.org/"
       }
     },
 {
@@ -208,7 +194,7 @@
         "description": "",
         "address": "2400 Kirk Ave 21218",
         "phone_number": "410-383-8300",
-	  "website_link": "https://totalhealthcare.org/"
+	      "website_link": "https://totalhealthcare.org/"
       }
     },
 {
@@ -222,7 +208,7 @@
         "description": "",
         "address": "1515 W. North Avenue 21217",
         "phone_number": "410-383-8300",
-	  "website_link": "https://totalhealthcare.org/"
+	      "website_link": "https://totalhealthcare.org/"
       }
     },
 {
@@ -236,7 +222,7 @@
         "description": "",
         "address": "2401 Liberty Heights Ave, 111-113 21215",
         "phone_number": "410-383-8300",
-	  "website_link": "https://totalhealthcare.org/"
+	      "website_link": "https://totalhealthcare.org/"
       }
     },
 {
@@ -250,7 +236,7 @@
         "description": "",
         "address": "1111 Washington Blvd 21230",
         "phone_number": "410-383-8300",
-	  "website_link": "https://totalhealthcare.org/"
+	      "website_link": "https://totalhealthcare.org/"
       }
     },
 {
@@ -264,7 +250,7 @@
         "description": "",
         "address": "2449 W. Frederick Ave 21223",
         "phone_number": "410-383-8300",
-	  "website_link": "https://totalhealthcare.org/"
+	      "website_link": "https://totalhealthcare.org/"
       }
     },
 {
@@ -278,7 +264,7 @@
         "description": "",
         "address": "2800 Kirk Ave. 21218",
         "phone_number": "410-467-7140 ext 3",
-	  "website_link": "https://shepherdsclinic.org/"
+	      "website_link": "https://shepherdsclinic.org/"
       }
     },{
       "type": "Clinic",
@@ -291,7 +277,7 @@
         "description": "",
         "address": "1728 Bank Street, Baltimore, MD 21231",
         "phone_number": "667-600-2900",
-	  "website_link": "https://www.catholiccharities-md.org/services/esperanza-center/"
+	      "website_link": "https://www.catholiccharities-md.org/services/esperanza-center/"
       }
     },{
       "type": "Clinic",
@@ -304,7 +290,7 @@
         "description": "",
         "address": "5200 Eastern Ave Mason F. Lord Building, Suite 4200",
         "phone_number": "410-550-1129",
-	  "website_link": "https://www.jhcentrosol.org/"
+	      "website_link": "https://www.jhcentrosol.org/"
       }
     },
     {
@@ -318,7 +304,7 @@
         "description": "",
         "address": "219 N Chester St, Baltimore, MD 21231",
         "phone_number": "(410) 675-3288",
-	"website_link": ""
+	      "website_link": "https://thedoorinc.org/"
       }
     },
     {
@@ -332,7 +318,7 @@
         "description": "",
         "address": "3813 Egerton Rd, Baltimore, MD 21215",
         "phone_number": "(410) 542-6200",
-	"website_link": ""
+	      "website_link": ""
       }
     },
     {
@@ -346,7 +332,7 @@
         "description": "",
         "address": "400 Wilson St, Baltimore, MD 21217",
         "phone_number": "(410) 675-3288",
-	"website_link": ""
+	      "website_link": ""
       }
     },
     {
@@ -360,7 +346,7 @@
         "description": "",
         "address": "219 N Chester St, Baltimore, MD 21231",
         "phone_number": "(410) 675-3288",
-	"website_link": ""
+	      "website_link": ""
       }
     },
     {
@@ -374,7 +360,7 @@
         "description": "",
         "address": "4414 Wilkens Ave, Baltimore, MD 21229",
         "phone_number": "(410) 242-0131",
-	"website_link": "https://www.olvictory.org/olvc/pastoral-ministry/community-outreach/"
+	      "website_link": "https://www.olvictory.org/olvc/pastoral-ministry/community-outreach/"
       }
     },
     {
@@ -388,7 +374,7 @@
         "description": "",
         "address": "2322 Annapolis Rd, Baltimore, MD 21230",
         "phone_number": " (410) 336-9118",
-	"website_link": ""
+	      "website_link": ""
       }
     },
     {
@@ -402,7 +388,7 @@
         "description": "",
         "address": " 501 E Pratt St, Baltimore, MD 21202",
         "phone_number": "(410) 539-1591",
-	"website_link": ""
+	      "website_link": ""
       }
     },
     {
@@ -416,7 +402,7 @@
         "description": "",
         "address": "2100 N Monroe St, Baltimore, MD 21217",
         "phone_number": "(410) 523-5306",
-	"website_link": ""
+	      "website_link": ""
       }
     },
     {
@@ -430,7 +416,7 @@
         "description": "",
         "address": "1010 E 33rd St, Baltimore, MD 21218",
         "phone_number": "(410) 433-2442",
-	"website_link": "https://gedco.org/"
+	      "website_link": "https://gedco.org/"
       }
     },
     {
@@ -444,7 +430,7 @@
         "description": "",
         "address": "5315 Harford Rd #3, Baltimore, MD 21214",
         "phone_number": "(410) 426-8177",
-	"website_link": ""
+	      "website_link": ""
       }
     },
     {
@@ -458,7 +444,7 @@
         "description": "",
         "address": "3501 7th St, Baltimore, MD 21225",
         "phone_number": "(410) 355-6707",
-	"website_link": "https://www.cityofrefugebaltimore.org/"
+	      "website_link": "https://www.cityofrefugebaltimore.org/"
       }
     },
     {
@@ -472,7 +458,7 @@
         "description": "",
         "address": "2638 E Baltimore St, Baltimore, MD 21224",
         "phone_number": "",
-	"website_link": ""
+	      "website_link": ""
       }
     },
     {
@@ -486,7 +472,7 @@
         "description": "",
         "address": "17 W Franklin St, Baltimore, MD 21201",
         "phone_number": "(667) 600-3700",
-	"website_link": "https://www.catholiccharities-md.org/"
+	      "website_link": "https://www.catholiccharities-md.org/"
       }
     },
     {
@@ -500,7 +486,7 @@
         "description": "",
         "address": "3529 Edmondson Ave, Baltimore, MD 21229",
         "phone_number": "(410) 566-3779",
-	"website_link": "https://olivetbaptistchurchbaltimore.org/food-pantry"
+	      "website_link": "https://olivetbaptistchurchbaltimore.org/food-pantry"
       }
     },
     {
@@ -514,7 +500,7 @@
         "description": "",
         "address": "435 E 25th St, Baltimore, MD 21218",
         "phone_number": "(410) 889-3291",
-	"website_link": "https://mannahouseinc.org/"
+	      "website_link": "https://mannahouseinc.org/"
       }
     },
     {
@@ -542,7 +528,7 @@
         "description": "",
         "address": "1034 N Fulton Ave, Baltimore, MD 21217",
         "phone_number": "(410) 728-6828",
-        "website_link": ""
+        "website_link": "https://www.mtpisgahcme.org/contact"
       }
     },
      {
@@ -653,7 +639,8 @@
         "title": "Shepherd's Clinic",
         "description": "Clinic for the homeless",
         "address": "2800 Kirk Ave, Baltimore, MD 21218",
-        "phone_number": "(410) 467-7140"
+        "phone_number": "(410) 467-7140",
+	      "website_link": "https://shepherdsclinic.org/"
       }
     },
      {
@@ -666,974 +653,514 @@
         "title": "Healthcare for the Homeless",
         "description": "exactly as it sounds -- free healthcare",
         "address": "421 Fallsway, Baltimore, MD 21202",
-        "phone_number": "(410) 837-5533"
+        "phone_number": "(410) 837-5533",
+        "website_link": ""
       }
-
     },
-
     {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [-76.599850,39.291630]
-
       },
-
       "properties": {
-
         "title": "Baltimore Rescue Mission",
-
         "description": "Emergency shelter for men in Baltimore.",
-
         "address": "4 N Central Ave, Baltimore, MD 21202",
-
-        "phone_number": "(410) 342-2533"
-
+        "phone_number": "(410) 342-2533",
+	      "website_link": "https://baltimorerescuemission.org/"
       }
-
     },
-
       {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [-76.600030,39.292570]
-
       },
-
       "properties": {
-
         "title": "Eastern Sexual Health Clinic",
-
         "description": "Free STI testing and treatment among other services.",
-
         "address": "1200 E. Fayette St., Baltimore, MD 21202",
-
-        "phone_number": "(410) 396-9410"
-
+        "phone_number": "(410) 396-9410",
+        "website_link": ""
       }
-
     },
-
         {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [-76.641390,39.309940]
-
       },
-
       "properties": {
-
         "title": "Druid Sexual Health Clinic",
-
         "description": "Free STI testing and treatment among other services.",
-
         "address": "1515 W. North Ave, Baltimore, MD 21217",
-
-        "phone_number": "(410) 396-0176"
-
+        "phone_number": "(410) 396-0176",
+	      "website_link": ""
       }
-
     },
-
          {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [-76.603520,39.291290]
-
       },
-
       "properties": {
-
         "title": "HIV/STD Prevention Program Administrative Office",
-
         "description": "Free STI testing and treatment among other services.",
-
         "address": "1001 E. Fayette St., Baltimore, MD 21202",
-
-        "phone_number": "(410) 396-4448"
-
+        "phone_number": "(410) 396-4448",
+	      "website_link": ""
       }
 
     },
 
        {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates": [-76.614410,39.280680]
-
       },
-
       "properties": {
-
         "title": "Baltimore Outreach Services",
-
         "description": "Homeless shelter for Baltimore's homeless - available 24 hours",
-
         "address": "701 S Charles St",
-
-        "phone_number": "(410) 752-1285"
-
+        "phone_number": "(410) 752-1285",
+	      "website_link": "https://www.baltimoreoutreach.org/"
       }
-
     },
-
        {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.600120,39.291330]
-
       },
-
       "properties": {
-
         "title": "Karis Home",
-
         "description": "Homeless shelter for Baltimore's homeless - specifically for women and children",
-
         "address": "1228 E Baltimore St",
-
-        "phone_number": "(410) 342-1323"
-
+        "phone_number": "(410) 342-1323",
+	      "website_link": "https://baltimorerescuemission.org/ministries/karis-home"
       }
-
     },
-
     {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.587450,39.296180]
-
       },
-
       "properties": {
-
         "title": "Bea Gaddy Family Center Inc",
-
         "description": "Homeless shelter for Baltimore's homeless",
-
         "address": "425 N Chester St, Baltimore, MD 21231",
-
-        "phone_number": "(410) 563-2749"
-
+        "phone_number": "(410) 563-2749",
+	      "website_link": "https://beagaddy.org/"
       }
-
     },
-
      {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.599854,39.291630]
-
       },
-
       "properties": {
-
         "title": "Baltimore Rescue Mission",
-
         "description": "Homeless shelter for Baltimore's homeless",
-
         "address": "4 N Central Ave, Baltimore, MD 21202",
-
-        "phone_number": "(410) 342-2533"
-
+        "phone_number": "(410) 342-2533",
+        "website_link": ""
       }
-
     },
-
       {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.643630,39.306610]
-
       },
-
       "properties": {
-
         "title": "South Baltimore Homeless Shelter",
-
         "description": "Homeless shelter for Baltimore's homeless",
-
         "address": "1611 Baker St, Baltimore, MD 21217",
-
-        "phone_number": "no number listed"
-
+        "phone_number": "no number listed",
+        "website_link": ""
       }
-
     },
-
   {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.601830,39.290540]
-
       },
-
       "properties": {
-
         "title": "Helping Up Mission",
-
         "description": "Homeless shelter for Baltimore's homeless",
-
         "address": "1029 E Baltimore St, Baltimore, MD 21202",
-
-        "phone_number": "(410) 675-7500"
-
+        "phone_number": "(410) 675-7500",
+	      "website_link": "https://helpingupmission.org/"
       }
-
     },
-
      {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.618080,39.310160]
-
       },
-
       "properties": {
-
         "title": "Project PLase",
-
         "description": "Homeless shelter for Baltimore's homeless: non-profit",
-
         "address": "1814 Maryland Ave, Baltimore, MD 21201",
-
-        "phone_number": "(410) 837-1400"
-
-      }},
-
+        "phone_number": "(410) 837-1400",
+	      "website_link": "https://projectplase.org/"
+       }
+     },
         {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.610100,39.317921]
-
       },
-
       "properties": {
-
         "title": "Manna House",
-
         "description": "Provide meals to the homeless",
-
         "address": "435 E 25th St, Baltimore, MD 21218",
-
-        "phone_number": "(410) 889-3001"
-
+        "phone_number": "(410) 889-3001",
+	      "website_link": "https://mannahouseinc.org/"
       }
-
     },
-
   {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.595470,39.286410]
-
       },
-
       "properties": {
-
         "title": "Beans & Bread",
-
         "description": "Provide meals to the homeless",
-
         "address": "402 S Bond St, Baltimore, MD 21231",
-
-        "phone_number": "(410) 732-1892"
-
+        "phone_number": "(410) 732-1892",
+	      "website_link": ""
       }
-
     },
-
 {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.582270,39.301480]
-
       },
-
       "properties": {
-
         "title": "Moveable Feast",
-
         "description": "Provide meals to the homeless",
-
         "address": " 901 N Milton Ave, Baltimore, MD 21205",
-
-        "phone_number": "(410) 327-3420"
-
+        "phone_number": "(410) 327-3420",
+	      "website_link": "https://www.mfeast.org/"
       }
-
     },
-
 {
-
      "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.583603,39.312462]
-
       },
-
       "properties": {
-
         "title": "New Life Food Pantry",
-
         "description": "Provide meals to the homeless",
-
         "address": " 2401 E North Ave, Baltimore, MD 21213",
-
-        "phone_number": " (443) 800-0213"
-
+        "phone_number": "(443) 800-0213",
+	      "website_link": "https://newlifepantry.org/"
       }
-
     },
-
   {
-
       "type": "Shelter",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.606640,39.301200]
-
       },
-
       "properties": {
-
         "title": "Christopher's Place - Food Distribution Center",
-
         "description": "Food distribution",
-
         "address": " 709 E Eager St, Baltimore, MD 21202",
-
-        "phone_number": "(410) 576-0066"
-
+        "phone_number": "(410) 576-0066",
+	      "website_link": ""
       }
-
     },
  {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.615780,39.302910]
-
       },
-
       "properties": {
-
         "title": "Chase Brexton Health Services",
-
         "description": "Affordable clinic",
-
-        "address": "  1111 N Charles St, Baltimore, MD 21201",
-
-        "phone_number": "(410) 837-2050"
-
+        "address": "1111 N Charles St, Baltimore, MD 21201",
+        "phone_number": "(410) 837-2050",
+	    "website_link": "https://www.chasebrexton.org/"
       }
-
     },
-   {
-
+ {
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.641388,39.309940]
-
       },
-
       "properties": {
-
         "title": "Baltimore City Health Department- Adolescent and Reproductive Health Services",
-
         "description": "Affordable clinic",
-
         "address": "  1515 W North Ave, Baltimore, MD 21217",
-
-        "phone_number": "(410) 396-0186"
-
+        "phone_number": "(410) 396-0186",
+	      "website_link": ""
       }
-
     },
-     {
-
+ {
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.641388,39.309940]
-
       },
-
       "properties": {
-
         "title": "Total Health Care - Open Gates Health Center",
-
         "description": "Affordable clinic",
-
         "address": "  1111 Washington Blvd, Baltimore, MD 21230",
-
-        "phone_number": "(410) 383-8300"
-
+        "phone_number": "(410) 383-8300",
+	      "website_link": "https://totalhealthcare.org/contact/open-gates-health-center/"
       }
-
     },
      {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.600640,39.283920]
-
       },
-
       "properties": {
-
         "title": "MinuteClinic",
-
         "description": "Affordable clinic",
-
-        "address": "  630 S Exeter St, Baltimore, MD 21202",
-
-        "phone_number": "(866) 389-2727"
-
+        "address": "630 S Exeter St, Baltimore, MD 21202",
+        "phone_number": "(866) 389-2727",
+	      "website_link": "https://www.cvs.com/minuteclinic/clinic-locator/md/baltimore/7952.html?WT.mc_id=LS_MC_GOOGLE_7952"
       }
-
     },
      {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.641720,39.291950]
-
       },
-
       "properties": {
-
         "title": "Total Health Care - Saratoga Health Center ",
-
         "description": "Affordable clinic",
-
         "address": "  1501 W Saratoga St, Baltimore, MD 21223",
-
-        "phone_number": "(410) 383-8300"
-
+        "phone_number": "(410) 383-8300",
+	      "website_link": "https://totalhealthcare.org/contact/saratoga-health-center/"
       }
-
     },
       {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.641170,39.242550]
-
       },
-
       "properties": {
-
         "title": "Lansdowne Health Center ",
-
         "description": "Affordable clinic",
-
-        "address": "  3902 Annapolis Rd, Lansdowne, MD 21227",
-
-        "phone_number": "(410) 887-6000"
-
+        "address": "3902 Annapolis Rd, Lansdowne, MD 21227",
+        "phone_number": "(410) 887-6000",
+	      "website_link": ""
       }
-
     },
      {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.655228,39.283810]
-
       },
-
       "properties": {
-
         "title": "Total Health Care - Westside Health Center ",
-
         "description": "Affordable clinic",
-
         "address": "  2449 Frederick Ave, Baltimore, MD 21223",
-
-        "phone_number": "(410) 383-8300"
-
+        "phone_number": "(410) 383-8300",
+	      "website_link": "https://totalhealthcare.org/contact/westside-health-center/"
       }
-
     },
      {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.614540,39.290901]
-
       },
-
       "properties": {
-
         "title": "AHF Healthcare Center - Baltimore ",
-
         "description": "Affordable clinic",
-
         "address": "  11 E Lexington St Ste 100, Baltimore, MD 21202",
-
-        "phone_number": "(410) 246-4876"
-
+        "phone_number": "(410) 246-4876",
+	      "website_link": "https://hivcare.org/"
       }
-
     },
       {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
-        "coordinates":[-76.614540,39.290901]
-
-      },
-
-      "properties": {
-
-        "title": "AHF Healthcare Center - Baltimore ",
-
-        "description": "Affordable clinic",
-
-        "address": "  11 E Lexington St Ste 100, Baltimore, MD 21202",
-
-        "phone_number": "(410) 246-4876"
-
-      }
-
-    },
-      {
-
-      "type": "Clinic",
-
-      "geometry": {
-
-        "type": "Point",
-
         "coordinates":[-76.615050,39.294970]
-
       },
-
       "properties": {
-
         "title": "Free Baltimore, LLC ",
-
         "description": "Affordable mental health clinic",
-
         "address": "  7 E Franklin St Floor 2, Baltimore, MD 21202",
-
-        "phone_number": "(443) 759-7075"
-
+        "phone_number": "(443) 759-7075",
+	      "website_link": ""
       }
-
     },
        {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.592990,39.284250]
-
       },
-
       "properties": {
-
         "title": "Sameday Health ",
-
         "description": "Affordable health clinic",
-
         "address": "  609 S Broadway, Baltimore, MD 21231",
-
-        "phone_number": "(310) 697-8126"
-
+        "phone_number": "(310) 697-8126",
+	      "website_link": "https://samedayhealth.com/"
       }
-
     },
        {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.631562326,39.3032289]
-
       },
-
       "properties": {
-
         "title": "Division Health Center ",
-
         "description": "Affordable health clinic",
-
         "address": "  1501 Division St, Baltimore, MD 21217",
-
-        "phone_number": "(410) 383-8300"
-
+        "phone_number": "(410) 383-8300",
+	      "website_link": "https://totalhealthcare.org/"
       }
-
-    },
-     {
-
-      "type": "Clinic",
-
-      "geometry": {
-
-        "type": "Point",
-
-        "coordinates":[-76.631562326,39.3032289]
-
-      },
-
-      "properties": {
-
-        "title": "Division Health Center ",
-
-        "description": "Affordable health clinic",
-
-        "address": "  1501 Division St, Baltimore, MD 21217",
-
-        "phone_number": "(410) 383-8300"
-
-      }
-
     },
        {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[	-76.69181,39.35758]
-
       },
-
       "properties": {
-
         "title": "RCC Health Services ",
-
         "description": "Affordable health clinic (for uninsured as well)",
-
         "address": "  6101 Park Heights Ave Suite 1D, Baltimore, MD 21215",
-
-        "phone_number": "No number listed"
-
+        "phone_number": "No number listed",
+	      "website_link": "https://rcchealthservices.org/"
       }
-
     },
         {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[	-76.67726,39.34814]
-
       },
-
       "properties": {
-
         "title": "Park West Health System ",
-
         "description": "Affordable health clinic ",
-
         "address": "  3319 W Belvedere Ave, Baltimore, MD 21215",
-
-        "phone_number": "(410) 542-7800"
-
+        "phone_number": "(410) 542-7800",
+	      "website_link": "https://www.parkwestmed.org/"
       }
-
     },
          {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[	-76.67726,39.34814]
-
       },
-
       "properties": {
-
         "title": "Priority Care Clinics ",
-
         "description": "Affordable health clinic ",
-
         "address": "  3500 Boston St, Baltimore, MD 21224",
-
-        "phone_number": "(410) 522-0001"
-
+        "phone_number": "(410) 522-0001",
+	      "website_link": "https://www.prioritycareclinics.com/baltimore-clinic-21224/"
       }
-
     },
          {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[	-76.5069157,39.2899429]
-
       },
-
       "properties": {
-
         "title": "Victory Medical Center",
-
         "description": "Affordable health clinic",
-
         "address": " 1101 North Point Blvd Suite 110, Baltimore, MD 21224",
-
-        "phone_number": "(410) 624-5125"
-
+        "phone_number": "(410) 624-5125",
+	      "website_link": "https://www.vmcfamily.com/"
       }
-
     },
    {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[	-76.5642411,39.3235324]
-
       },
-
       "properties": {
-
         "title": "The EPEC Clinic",
-
         "description": "Affordable health clinic",
-
         "address": " 3311 Ramona Ave, Baltimore, MD 21213",
-
-        "phone_number": "(443) 559-8354"
-
+        "phone_number": "(443) 559-8354",
+	      "website_link": "https://www.epecclinic.com/"
       }
-
     },
     {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[	-76.603393,39.301642]
-
       },
-
       "properties": {
-
         "title": "East Baltimore Medical Center",
-
         "description": "Affordable health clinic",
-
         "address": "1000 E Eager St, Baltimore, MD 21202",
-
-        "phone_number": " (410) 522-9800"
-
+        "phone_number": " (410) 522-9800",
+	      "website_link": "https://bmsi.org/ebmc/"
       }
-
     },
      {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[	-76.615129,39.287611]
-
       },
-
       "properties": {
-
         "title": "Concentra Urgent Care",
-
         "description": "Affordable health clinic (occupational health)",
-
         "address": "100 S Charles St Suite 150, Baltimore, MD 21201",
-
-        "phone_number": " (410) 752-3010"
-
+        "phone_number": " (410) 752-3010",
+	      "website_link": "https://www.concentra.com/?utm_source=Yext&utm_medium=Organic%20Search&utm_campaign=Homepage%20Link"
       }
-
     },
      {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.6260679,39.2866055]
-
       },
-
       "properties": {
-
         "title": "Western Penn Women's Center",
-
         "description": "Affordable health clinic",
-
         "address": "120 Penn St, Baltimore, MD 21201",
-
-        "phone_number": " (410) 706-2500"
-
+        "phone_number": " (410) 706-2500",
+	      "website link": "https://www.umms.org/ummc/locations/western-penn-womens-center?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link"
       }
-
     },
  {
-
       "type": "Clinic",
-
       "geometry": {
-
         "type": "Point",
-
         "coordinates":[-76.7485799,39.3096814]
-
       },
-
       "properties": {
-
         "title": "Woodlawn Health Center",
-
         "description": "Affordable health clinic",
-
         "address": "6901 Security Blvd, Baltimore, MD 21207",
-
         "phone_number": " (410) 887-1332"
-
       }
-
     }
   ]
-
 }
