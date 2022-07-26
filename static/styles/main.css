@@ -7,12 +7,12 @@ body {
 }
 
 a {
-  color: #20a8c0;
+  color: #131d30;
   text-decoration: none;
 }
 
 a:hover {
-  color: #86db9f;
+  color: #131d30;
   text-decoration: none;
 }
 
@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .container_format {
-  background-color: #20a8c0;
+  background-color: #131d30;
 }
 
 .container_text{
@@ -57,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #header .logo a {
-  color: #20a8c0;
+  color: #131d30;
 }
 #header .logo img {
   max-height: 40px;
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0 10px 30px;
+  padding: 0px 0 0px 30px;
   font-family: "Poppins", sans-serif;
   font-size: 15px;
   font-weight: 500;
@@ -98,6 +98,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #20a8c0;
+}
+
+.nav-brf{
+    font-weight:bold;
 }
 
 /**
@@ -171,8 +175,8 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 60vh;
-  background: url("../assets/baltimore-panoramic.jpeg") top center;
+  height: 100%;
+  background: url("../assets/homepage.png") top center;
   position: relative;
 }
 #hero:before {
@@ -250,7 +254,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f6f7f6;
+  background-color: #131d30;
 }
 
 .section-title {
@@ -311,7 +315,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: #20a8c0;
+  background: #131d30;
   border-radius: 4px;
   color: #fff;
 }
@@ -369,6 +373,7 @@ section {
 .courses .course-item {
   border-radius: 5px;
   border: 1px solid #eef0ef;
+  background: white;
 }
 .courses .course-content {
   padding: 15px;
@@ -382,7 +387,7 @@ section {
   transition: 0.3s;
 }
 .courses .course-content h3 a:hover {
-  color: #20a8c0;
+  color: #131d30;
 }
 .courses .course-content p {
   font-size: 14px;
@@ -390,7 +395,7 @@ section {
 }
 .courses .course-content h4 {
   font-size: 14px;
-  background: #20a8c0;
+  background: #131d30;
   padding: 7px 14px;
   color: #fff;
   margin: 0;

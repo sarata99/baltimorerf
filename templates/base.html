@@ -17,18 +17,18 @@
 <body>
     <!-- Fixed navbar -->
     <header>
-        <div class="container-fluid d-flex align-items-center">
+        <div class="container-fluid d-flex align-items-center" style="background: #F7b733">
         {% include "navbar.html" %}
     </header>
 
     <!-- Page content -->
-    <main role="main" class="container-fluid">
+    <main role="main" class="container-fluid" style="background: #c1c4c9">
         {% block content %}{% endblock %}
     </main>
 
     <!-- Sticky footer -->
     <footer class="footer ">
-        <div class="container-fluid" style="background-color: rgb(240, 238, 238); padding: 10px;">
+        <div class="container-fluid" style="background-color: white; padding: 10px;">
             {% include "footer.html" %}
         </div>
     </footer>
