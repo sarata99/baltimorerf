@@ -1,17 +1,16 @@
 <div class="container">
-  <nav class="navbar navbar-expand-lg navbar-light">
-    <a class="navbar-brand" href="{{ url_for('index') }}" style="font-size: 30px; font-weight:900; color: #131d30"> BRF </a>
+  <nav class="navbar">
+    <!-- LOGO -->
+    <a class="logo" href="{{ url_for('index') }}"> BRF </a>
     <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbar">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('index') }}">Home</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('map') }}">Finder</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('how') }}">Guides</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('volunteer') }}">Service</a></li>
-        <li class="nav-item"><a class="nav-link" href="{{ url_for('about') }}">About Us</a></li>
-      </ul>
-    </div>
+    <ul class="nav-links">
+      <li class="nav-link"><a href="{{ url_for('index') }}">Home</a></li>
+      <li class="nav-link"><a href="{{ url_for('about') }}">About Us</a></li>
+      <li class="nav-link"><a href="{{ url_for('how') }}">Guides</a></li>
+      <li class="nav-link"><a href="{{ url_for('volunteer') }}">Volunteer</a></li>
+      <li class="nav-link"><a href="{{ url_for('map') }}">Find Now</a></li>
+    </ul>
   </nav><!-- .navbar -->
 </div>
