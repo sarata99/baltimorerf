@@ -347,11 +347,11 @@ section {
 
 .site-footer
 {
-  background-color:#26272b;
+  background-color:#f8e7c6eb;
   padding:45px 0 20px;
   font-size:15px;
   line-height:24px;
-  color:#737373;
+  color:#131d30;
 }
 .site-footer hr
 {
@@ -366,13 +366,14 @@ section {
 {
   color:#db3a34;
   font-size:16px;
+  font-weight: bold;
   text-transform:uppercase;
   margin-top:5px;
-  letter-spacing:2px
+  letter-spacing:1px
 }
 .site-footer a
 {
-  color:#737373;
+  color:#131d30;
 }
 .site-footer a:hover
 {
@@ -390,7 +391,7 @@ section {
 }
 .footer-links a
 {
-  color:#737373
+  color:#131d30
 }
 .footer-links a:active,.footer-links a:focus,.footer-links a:hover
 {
