@@ -1,8 +1,56 @@
 
-<div class="container" style="padding: 0.5%;">
-    <p>Reach us at contact@baltimorerf.org<p>
-    <p>Baltimore Resource Finder 2022. All rights reserved.</p>
-</div>
+  <!-- Site footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-6">
+          <h6>About</h6>
+          <p class="text-justify">Finding free resources when you need them should be simple. We aim to empower the residents of Baltimore City through access and service to government resources and non-profit services. We believe this is best accomplished through providing information - informed people make informed choices.</p>
+        </div>
+
+        <div class="col-xs-6 col-md-3">
+          <h6>Reources</h6>
+          <ul class="footer-links">
+            <li><a href="{{ url_for('how') }}">Government Services</a></li>
+            <li><a href="{{ url_for('map') }}">Find Clinics</a></li>
+            <li><a href="{{ url_for('map') }}">Find Food Pantries</a></li>
+            <li><a href="{{ url_for('map') }}">Find Shelters</a></li>
+          </ul>
+        </div>
+
+        <div class="col-xs-6 col-md-3">
+          <h6>Quick Links</h6>
+          <ul class="footer-links">
+            <li><a href="{{ url_for('index') }}">Home</a></li>
+            <li><a href="{{ url_for('about') }}">About Us</a></li>
+            <li><a href="{{ url_for('how') }}">Government Services</a></li>
+            <li><a href="{{ url_for('volunteer') }}">Volunteer</a></li>
+            <li><a href="{{ url_for('map') }}">Resource Map</a></li>
+          </ul>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-sm-6 col-xs-12">
+          <p class="copyright-text">Copyright &copy; 2022 All Rights Reserved by 
+       <a href="#">Baltimore Resource Finder</a>.
+          </p>
+        </div>
+        <!-- Site footer 
+        <div class="col-md-4 col-sm-6 col-xs-12">
+          <ul class="social-icons">
+            <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
+            <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
+            <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
+            <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>   
+          </ul>
+        </div>
+        -->
+      </div>
+    </div>
+</footer>
 
 
 
