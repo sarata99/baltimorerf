@@ -144,6 +144,9 @@ h1, h2, h3, h4, h5, h6 {
   border: 2px solid #f0b53ee6;
   color: #fff;
 }
+#hero .btn-get-started:hover {
+  border: 1px solid white;
+}
 
 @media (min-width: 1024px) {
   #hero {
@@ -248,7 +251,7 @@ section {
 }
 .why-us .content .more-btn {
   display: inline-block;
-  background: rgba(255, 255, 255, 0.2);
+  background: #db3a34;
   padding: 6px 30px 8px 30px;
   color: #fff;
   border-radius: 50px;
@@ -260,6 +263,7 @@ section {
 .why-us .content .more-btn:hover {
   color: white;
   background: #db3a34;
+  border: 1px solid white;
 }
 .why-us .icon-boxes .icon-box {
   text-align: center;
