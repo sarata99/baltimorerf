@@ -21,11 +21,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .container_format {
-  background-color: #131d30;
+  background-color: #D6DEE0;
 }
 
 .container_text{
-  color: white;
+  color: black;
 }
 
 
@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   padding:  0;
   margin: 0;
-  background-color: #131d30;;
+  background-color: #131d30;
   color: #fff;
  }
 
@@ -56,12 +56,24 @@ h1, h2, h3, h4, h5, h6 {
  /* NAVBAR MENU */
 .nav-links {
   display: flex;
-  font-size: 16px;
+  font-size: 14px;
   margin: 0;
   padding: 0;
  }
+ 
  .nav-links li:hover {
-  background-color:#f0b53ee6;
+  border-radius: 50px;
+  background-color:#db3a34;
+  
+ }
+
+ .nav-button{
+  display: flex;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+  border-radius: 50px;
+  background-color:#db3a34;
  }
 
 
@@ -246,15 +258,15 @@ section {
   font-size: 14px;
 }
 .why-us .content .more-btn:hover {
-  color: #20a8c0;
-  background: #fff;
+  color: white;
+  background: #db3a34;
 }
 .why-us .icon-boxes .icon-box {
   text-align: center;
   background: #fff;
   padding: 40px 30px;
   width: 100%;
-  border: 1px solid #eef0ef;
+  border: 1px solid #D6DEE0;
 }
 .why-us .icon-boxes .icon-box i {
   font-size: 32px;
@@ -272,6 +284,27 @@ section {
 .why-us .icon-boxes .icon-box p {
   font-size: 15px;
   color: #848484;
+}
+
+/*--------------------------------------------------------------
+# Counts
+--------------------------------------------------------------*/
+.counts {
+  padding: 30px 0;
+}
+.counts .counters span {
+  font-size: 48px;
+  display: block;
+  color: white;
+  font-weight: 700;
+}
+.counts .counters p {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-family: "Raleway", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
 }
 
 /*--------------------------------------------------------------

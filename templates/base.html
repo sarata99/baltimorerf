@@ -22,7 +22,7 @@
     </header>
 
     <!-- Page content -->
-    <main role="main" class="container-fluid" style="background: #D6DEE0">
+    <main role="main" class="container-fluid" style="background: white">
         {% block content %}{% endblock %}
     </main>
 
@@ -39,6 +39,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="{{ url_for('static',filename='styles/purecounter.js') }}"></script>
 </body>
 
 <script>
