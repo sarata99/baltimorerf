@@ -34,21 +34,27 @@
               <div class="row">
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-receipt"></i>
+                    <div>
+                      <img src="{{ url_for('static',filename='assets/yellow_clinic.png') }}" class="img-fluid" style="width: 50%; height: auto; padding-bottom: 10%;">
+                    </div>
                     <h4>Free Clinics</h4>  <!-- To do: link to list of free clinics -->
                     <p>Healthcare costs can be scary, but there are options! Numerous free/affordable clinics exist in Baltimore.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-cube-alt"></i>
+                    <div>
+                      <img src="{{ url_for('static',filename='assets/yellow_food_pantry.png') }}" class="img-fluid" style="width: 50%; height: auto; padding-bottom: 10%;">
+                    </div>
                     <h4>Food Pantries</h4> <!-- To do: link to list of food pantries -->
                     <p>Nobody should have to go hungry, and many organizations exist to ensure no one has to in Baltimore.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-images"></i>
+                    <div>
+                      <img src="{{ url_for('static',filename='assets/yellow_shelter.png') }}" class="img-fluid" style="width: 50%; height: auto; padding-bottom: 10%;">
+                    </div>
                     <h4>Shelters</h4> <!-- To do: link to list of shelters -->
                     <p>Whether in need of financial relief or physical housing, there are many organizations that can help.</p>
                   </div>
@@ -60,6 +66,30 @@
 
       </div>
     </section><!-- End Why Us Section -->
+    <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts section-bg">
+      <div class="container">
+
+        <div class="row counters">
+
+          <div class="col-lg-4 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="47" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Clinics</p>
+          </div>
+
+          <div class="col-lg-4 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="23" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Food Pantries</p>
+          </div>
+
+          <div class="col-lg-4 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="13" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Shelters</p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Counts Section -->
 
   </main><!-- End #main -->
 {% endblock %}
