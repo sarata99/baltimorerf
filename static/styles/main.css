@@ -352,10 +352,11 @@ section {
 .site-footer
 {
   background-color:#f3d8a3eb;
+  border-top: 0.5rem solid  #b2b5b691;
   padding:45px 0 20px;
   font-size:15px;
   line-height:24px;
-  color:#131d30;
+  color:black;
 }
 .site-footer hr
 {
@@ -368,7 +369,7 @@ section {
 }
 .site-footer h6
 {
-  color:#db3a34;
+  color:#131d30;
   font-size:16px;
   font-weight: bold;
   text-transform:uppercase;
