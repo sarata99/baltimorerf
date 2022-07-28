@@ -21,11 +21,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .container_format {
-  background-color: #D6DEE0;
+  /*background-color:#f3d8a3eb; #D6DEE0 ;*/
+  background-color: white;
+  border-bottom: 0.5rem solid  #D6DEE0;
 }
 
 .container_text{
-  color: black;
+  color: #131d30;
+  font-weight: 900;
+  letter-spacing: 2;
 }
 
 
@@ -141,7 +145,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin-top: 30px;
   background: #f0b53ee6;
-  border: 2px solid #f0b53ee6;
+  border: 1px solid #f0b53ee6;
   color: #fff;
 }
 #hero .btn-get-started:hover {
@@ -347,7 +351,7 @@ section {
 
 .site-footer
 {
-  background-color:#f8e7c6eb;
+  background-color:#f3d8a3eb;
   padding:45px 0 20px;
   font-size:15px;
   line-height:24px;
